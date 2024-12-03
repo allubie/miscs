@@ -4,9 +4,9 @@ Just to keep myself on track.
 ```markdown
 ## Daily checklist
 
-* [ ] Last Event [NULL]
-* [ ] Current Event [1-12-2024]
-* [ ] Missing Event <!NULL>
+* [ ] Last Event [1-12-2024]
+* [ ] Current Event [3-12-2024]
+* [ ] Missing Event <1>
 * [ ] Continuation <!NULL>
-* [ ] Termination <!NULL>
+* [ ] Termination <1>
 ```
