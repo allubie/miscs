@@ -5,8 +5,8 @@ Just to keep myself on track.
 ## Daily checklist
 
 * [ ] Last Event [1-12-2024]
-* [ ] Current Event [3-12-2024]
-* [ ] Missing Event <1>
+* [ ] Current Event [31-12-2024]
+* [ ] Missing Event <28>
 * [ ] Continuation <!NULL>
 * [ ] Termination <1>
 ```
